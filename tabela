@@ -1,17 +1,1 @@
-<table>
-  <tr>
-    <th>Imię</th>
-    <th>Miasto</th>
-    <th>Wiek</th>
-  </tr>
-  <tr>
-    <td>Jagoda Amiławska</td>
-    <td>Warszawa</td>
-    <td>43</td>
-  </tr>
-  <tr>
-    <td>Jan Kowalski</td>
-    <td>Wrocława</td>
-    <td>53</td>
-  </tr>
-</table>
+
